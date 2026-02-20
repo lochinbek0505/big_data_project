@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class HadoopBackendApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(HadoopBackendApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(HadoopBackendApplication.class, args);
+    }
 
 }
